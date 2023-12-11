@@ -2,12 +2,12 @@ NYC Crime Dataset
 
 By: Emilee Wright <emileewright@vt.edu> and Prakhar Pandey <prakhar28@vt.edu>
 
-We annotated a dataset of documents by students about the different districts, boundaries, arrests, and level of offenses that took place. We call this dataset the NYC Crime dataset. 
+We annotated a dataset of documents by students about the different districts, perpetrator age/sex, and occurance time and date. We call this datset the NYC Crime Dataset. 
 
 Motivation: 
-1. Who Created It: Ambrose Karella, Janam Patel, Naimish Bizzu 
-2. Why Was It Created: 
-3. Stakeholders: 
+1. Who Created It: Thaddeus Segura 
+2. Why Was It Created: To dig into crime and policing habits 
+3. Stakeholders: NYC communities, police officers 
 
 Composition: 
 1. Observations/Instances: 
