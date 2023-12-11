@@ -1,0 +1,42 @@
+NYC Crime Dataset 
+
+By: Emilee Wright <emileewright@vt.edu> and Prakhar Pandey <prakhar28@vt.edu>
+
+We annotated a dataset of documents by students about the different districts, boundaries, arrests, and level of offenses that took place. We call this dataset the NYC Crime dataset. 
+
+Motivation: 
+1. Who Created It: Ambrose Karella, Janam Patel, Naimish Bizzu 
+2. Why Was It Created: 
+3. Stakeholders: 
+
+Composition: 
+1. Observations/Instances: 
+2. Biases Of The Metrics: 
+3. Summary Statistical Overview Of The Data Types: 
+
+Collection Process: 
+1. How Was It Collected? By What Means? Data was collected through calls to the NYC OpenData platform. 
+2. Sampling Method: 
+3. Timeframe: 
+
+Processing/Labeling:
+1. What Processing Work? 
+2. OG Data Available: 
+
+Uses: 
+1. Original Intended Uses: 
+2. How Should It Not Be Used? 
+
+Distribution: 
+1. How Will It Be Distributed: 
+2. Licensing/Intellectual Property: 
+3. Regulation: 
+
+Maintenance: 
+1. Who Will Maintain It? 
+2. Handling Errata? 
+3. Contribution Process? 
+
+    
+
+
