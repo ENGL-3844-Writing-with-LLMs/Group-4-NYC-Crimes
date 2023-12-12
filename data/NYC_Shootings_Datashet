@@ -1,0 +1,44 @@
+NYC Crime Dataset 
+
+By: Emilee Wright <emileewright@vt.edu> and Prakhar Pandey <prakhar28@vt.edu>
+
+Model Details: 
+1. Citation/Contact Info: This dataset was collected from Thaddeus Segura on kaggle.com. It was updated three years.
+2. Purpose Of The Model: We annotated a dataset of documents about the different districts, perpetrator age/sex, and occurance time and date. We call this datset the NYC Crime Dataset. This model was created to help visualize the data and predict future occurances of shootings in NYC. 
+
+Motivation: 
+1. Who Created It: This dataset was created by Thaddeus Segura. 
+2. Why Was It Created: Segura created it "to dig into crime and policing habits."  
+3. Stakeholders: There are several possibilities for stakeholders in this project. For one, it could be the community in general or the specific communities to which the shooting happens. In could also be the police officers. The data might tell them where a shooting is likely to occur, at what time, and what type of perpetrator they are dealing with.
+
+Composition: 
+1. Observations/Instances: 
+2. Biases Of The Metrics: 
+3. Summary Statistical Overview Of The Data Types: 
+
+Collection Process: 
+1. How Was It Collected? By What Means? Data was collected through calls to the NYC OpenData platform. 
+2. Sampling Method: 
+3. Timeframe: 
+
+Processing/Labeling:
+1. What Processing Work? 
+2. OG Data Available: 
+
+Uses: 
+1. Original Intended Uses: 
+2. How Should It Not Be Used? 
+
+Distribution: 
+1. How Will It Be Distributed: 
+2. Licensing/Intellectual Property: 
+3. Regulation: 
+
+Maintenance: 
+1. Who Will Maintain It? 
+2. Handling Errata? 
+3. Contribution Process? 
+
+    
+
+
