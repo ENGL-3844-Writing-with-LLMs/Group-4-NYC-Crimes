@@ -11,7 +11,7 @@ By: Emilee Wright <emileewright@vt.edu> and Prakhar Pandey <prakhar28@vt.edu>
 2. Why Was It Created: Segura created it "to dig into crime and policing habits."  
 3. Stakeholders: There are several possibilities for stakeholders in this project. For one, it could be the community in general or the specific communities to which the shooting happens. In could also be the police officers. The data might tell them where a shooting is likely to occur, at what time, and what type of perpetrator they are dealing with.
 
-**Composition: **
+**Composition:**
 1. Observations/Instances: The dataset consists of information collected from NYC OpenData. While this source has its own bias in itself. The collector of this data (Segura) also has their own biases, rather they realize it or not. This could affect which data was considered when creating this dataset and if everything was labeled correctly. 
 2. Biases Of The Metrics: There could be several types of biases in this dataset, such as selection bias. The author of this dataset could have chosen a select sample that is not representative of the entire population. In addition, response bias plays a role as well. This occurs when respondents provide inaccurage or false information. This could have occured when shootings were reported to NYC OpenData. 
 3. Summary Statistical Overview Of The Data Types: In summary, these datatypes are nominal data, which shows data without inherent order. Nominal data allows us to calculate frequences and proportions, which is what we did in our EDA models. 
